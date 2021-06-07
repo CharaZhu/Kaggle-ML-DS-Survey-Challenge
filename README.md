@@ -22,6 +22,7 @@ kaggle_survey_2020_answer_choices.pdf: the questions and answer choices in the s
 kaggle_survey_2020_methodology.pdf: the methodology and survey flow logic of the survey.
 
 
-## IPython Notebook:
+## Running Order:
 
-KaggleSalary_DataSet.ipynb: the code used to transform the original survey responses (kaggle_survey_2020_responses.csv) to the clean dataset (clean_kaggle_data_2020.csv)
+1. KaggleSalary_DataSet.ipynb: transform the original survey responses to the clean dataset 
+2. Main.ipynb
