@@ -13,13 +13,10 @@ questions. Not all questions are answered by each participant, and responses con
 
 ## Data Files:
 
-clean_kaggle_data_2020.csv: cleaned file to be read in notebook.
-
-○kaggle_survey_2020_responses.csv: original survey responses.
-
-kaggle_survey_2020_answer_choices.pdf: the questions and answer choices in the survey.
-
-kaggle_survey_2020_methodology.pdf: the methodology and survey flow logic of the survey.
+1. clean_kaggle_data_2020.csv: cleaned file to be read in notebook.
+2. ○kaggle_survey_2020_responses.csv: original survey responses.
+3. kaggle_survey_2020_answer_choices.pdf: the questions and answer choices in the survey.
+4. kaggle_survey_2020_methodology.pdf: the methodology and survey flow logic of the survey.
 
 
 ## Running Order:
