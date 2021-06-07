@@ -22,4 +22,6 @@ questions. Not all questions are answered by each participant, and responses con
 ## Running Order:
 
 1. KaggleSalary_DataSet.ipynb: transform the original survey responses to the clean dataset 
-2. Main.ipynb
+2. Main.ipynb:
+*  Part 1: explore the survey data to understand (1) the nature of women’s representation in Data Science and Machine Learning and (2) the effects of education on income level.
+*  Part 2: 
