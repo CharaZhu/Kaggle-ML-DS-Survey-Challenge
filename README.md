@@ -24,4 +24,4 @@ kaggle_survey_2020_methodology.pdf: the methodology and survey flow logic of the
 
 ## IPython Notebook:
 
-KaggleSalary_DataSet.ipynb: the code used to transform the original survey responses (kaggle_survey_2020_responses.csv) to the clean dataset clean_kaggle_data_2020.csv
+KaggleSalary_DataSet.ipynb: the code used to transform the original survey responses (kaggle_survey_2020_responses.csv) to the clean dataset (clean_kaggle_data_2020.csv)
