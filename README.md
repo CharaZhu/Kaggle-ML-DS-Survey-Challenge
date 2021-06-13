@@ -22,13 +22,13 @@ questions. Not all questions are answered by each participant, and responses con
 
 1. KaggleSalary_DataSet.ipynb: transform the original survey responses (kaggle_survey_2020_responses.csv) to the clean dataset clean_kaggle_data_2020.csv
 
-3. Main.ipynb:
+2. Main.ipynb, Part 1:
 * Part 1: explore the survey data to understand (1) the nature of women’s representation in Data Science and Machine Learning and (2) the effects of education on income level.
+#### Exploratory Data Analysis 
+#### Statistical Analysis 
 
-Exploratory Data Analysis 
-Statistical analysis 
-
-*  Part 2: train, validate, and tune multi-class ordinary classification models that can classify, given a set of survey responses by a data scientist, what a survey respondent’s current yearly compensation bucket is.
+3. Main.ipynb, Part 2:
+Part 2: train, validate, and tune multi-class ordinary classification models that can classify, given a set of survey responses by a data scientist, what a survey respondent’s current yearly compensation bucket is.
 
 ## Report:
 Summarize the key stepes in IPython Notebook, present the results of analysis. 
