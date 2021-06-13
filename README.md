@@ -27,6 +27,11 @@ questions. Not all questions are answered by each participant, and responses con
 * Statistical Analysis 
 
 3. Main.ipynb, Part 2: train, validate, and tune multi-class ordinary classification models that can classify, given a set of survey responses by a data scientist, what a survey respondent’s current yearly compensation bucket is.
+* Data Cleaning
+* Feature Selection
+* Model Implementation 
+* Model Tuning
+* Testing  
 
 ## Report:
 Summarize the key stepes in IPython Notebook, present the results of analysis. 
